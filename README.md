@@ -2,7 +2,8 @@
 
 Welcome to my personal developer portfolio built using **React.js**. This website showcases my technical skills, projects, and services as a **Full Stack MERN Developer**.
 
-![Screenshot](./src/assets/assets/ssmb2.jpg)
+<img src="./src/assets/assets/your-image.png" alt="Portfolio Screenshot" width="400" height="400" />
+
 
 ## 🚀 Live Preview
 
