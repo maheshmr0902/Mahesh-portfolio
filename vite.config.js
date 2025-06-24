@@ -1,9 +1,10 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
 
-// https://vitejs.dev/config/
+// Replace 'your-repo-name' with the actual name of your GitHub repo
 export default defineConfig({
-  base: './', // 👈 Add this line to fix asset paths
   plugins: [react()],
-})
+  base: '/Mahesh-portfolio/', // 👈 VERY IMPORTANT
+});
+
 
